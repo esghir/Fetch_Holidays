@@ -1,0 +1,17 @@
+date,localName,name,countryCode,fixed,global,counties,launchYear,types
+2023-01-02,New Year's Day,New Year's Day,US,False,True,,,['Public']
+2023-01-16,"Martin Luther King, Jr. Day","Martin Luther King, Jr. Day",US,False,True,,,['Public']
+2023-02-12,Lincoln's Birthday,Lincoln's Birthday,US,False,False,"['US-CA', 'US-CT', 'US-IL', 'US-IN', 'US-KY', 'US-MI', 'US-NY', 'US-MO', 'US-OH']",,['Observance']
+2023-02-20,Washington's Birthday,Presidents Day,US,False,True,,,['Public']
+2023-04-07,Good Friday,Good Friday,US,False,False,"['US-CT', 'US-DE', 'US-HI', 'US-IN', 'US-KY', 'US-LA', 'US-NC', 'US-ND', 'US-NJ', 'US-TN']",,['Public']
+2023-04-07,Good Friday,Good Friday,US,False,False,['US-TX'],,['Optional']
+2023-05-08,Truman Day,Truman Day,US,False,False,['US-MO'],,"['School', 'Authorities']"
+2023-05-29,Memorial Day,Memorial Day,US,False,True,,,['Public']
+2023-06-19,Juneteenth National Independence Day,Juneteenth National Independence Day,US,False,True,,,['Public']
+2023-07-04,Independence Day,Independence Day,US,False,True,,,['Public']
+2023-09-04,Labour Day,Labor Day,US,False,True,,,['Public']
+2023-10-09,Columbus Day,Columbus Day,US,False,False,"['US-AL', 'US-AZ', 'US-CO', 'US-CT', 'US-GA', 'US-ID', 'US-IL', 'US-IN', 'US-IA', 'US-KS', 'US-KY', 'US-LA', 'US-ME', 'US-MD', 'US-MA', 'US-MS', 'US-MO', 'US-MT', 'US-NE', 'US-NH', 'US-NJ', 'US-NM', 'US-NY', 'US-NC', 'US-OH', 'US-OK', 'US-PA', 'US-RI', 'US-SC', 'US-TN', 'US-UT', 'US-VA', 'US-WV']",,['Public']
+2023-10-09,Indigenous Peoples' Day,Indigenous Peoples' Day,US,False,False,"['US-AK', 'US-AL', 'US-CA', 'US-HI', 'US-IA', 'US-LA', 'US-ME', 'US-MI', 'US-MN', 'US-NC', 'US-NE', 'US-NM', 'US-OK', 'US-OR', 'US-SD', 'US-TX', 'US-VA', 'US-VT', 'US-WI']",,['Public']
+2023-11-10,Veterans Day,Veterans Day,US,False,True,,,['Public']
+2023-11-23,Thanksgiving Day,Thanksgiving Day,US,False,True,,,['Public']
+2023-12-25,Christmas Day,Christmas Day,US,False,True,,,['Public']
